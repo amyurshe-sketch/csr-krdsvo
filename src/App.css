@@ -241,6 +241,10 @@
     font-size: 0.8rem;
   }
 
+  .hero h1 {
+    font-size: 2.1rem;
+  }
+
   .mission,
   .leader,
   .donation {
