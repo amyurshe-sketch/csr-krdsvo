@@ -73,9 +73,15 @@ function App() {
             <p>Пусть каждый день станет немного спокойнее, чем вчера.</p>
             <p>Мы рядом, чтобы поддержать, выслушать и помочь сделать следующий шаг.</p>
           </div>
-          <a className="donation__cta" href="https://e-omlet.vercel.app/" target="_blank" rel="noreferrer">
-            Made by
-          </a>
+          <div className="donation__links">
+            <a className="donation__cta" href="https://t.me/psi_krdSVO" target="_blank" rel="noreferrer">
+              <img src="/usefull/telegram-logo.svg" alt="Telegram" />
+              <span>Телеграм канал</span>
+            </a>
+            <a className="donation__credit" href="https://e-omlet.vercel.app/" target="_blank" rel="noreferrer">
+              Made by
+            </a>
+          </div>
         </section>
       </main>
     </div>
