@@ -155,7 +155,7 @@
 }
 
 .donation {
-  padding: 120px 24px 140px;
+  padding: 90px 24px 140px;
   background-color: #ececec;
   text-align: center;
 }
@@ -185,7 +185,7 @@
 .donation__note {
   font-size: 1rem;
   color: #333333;
-  margin-bottom: 32px;
+  margin-bottom: 20px;
 }
 
 .donation__note p {

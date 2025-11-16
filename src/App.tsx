@@ -24,7 +24,7 @@ function App() {
         <section id="hero" className="hero">
           <div className="hero__overlay" />
           <div className="hero__content">
-            <h1>Надежный тыл</h1>
+            <h1>Надёжный тыл</h1>
             <p className="hero__tagline">Центр социальной реабилитации</p>
           </div>
         </section>
@@ -32,7 +32,7 @@ function App() {
         <section id="mission" className="mission">
           <div className="mission__content">
             <div className="mission__image">
-              <img src="/usefull/favicon1.jpg" alt="Поддержка участников СВО" />
+              <img src="/usefull/nd.png" alt="Поддержка участников СВО" />
             </div>
             <div className="mission__text">
               <p>
